@@ -3,7 +3,7 @@
       {
         "name" : "Cisco",
         "species" : "Maltipoo",
-        "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Napping"],
+        "favFoods" : ["<strong>Gender:</strong>         Male", "<strong>Size:</strong>      Medium", "<strong>Fav. Activity:</strong>   Napping"],
         "birthYear" : 2019,
         "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
       },
