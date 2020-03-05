@@ -5,7 +5,7 @@
         "species" : "Maltipoo",
         "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Napping"],
         "birthYear" : 2019,
-        "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        "photo" : "https://mafryr.github.io/pets-files/Maltipoo.jpg"
       },
       {
         "name" : "Stewart",
@@ -19,21 +19,21 @@
         "species" : "Chihuahua",
         "favFoods" : ["<strong>Gender:</strong> Female", "<strong>Size:</strong> Small", "<strong>Fav. Activity:</strong> Swimming"],
         "birthYear" : 2012,
-        "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+        "photo" : "https://mafryr.github.io/pets-files/Chihuahua.jpg"
       },
       {
         "name" : "Bella",
         "species" : "Terrier",
         "favFoods" : ["<strong>Gender:</strong> Female", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Fetching"],
         "birthYear" : 2016,
-        "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        "photo" : "https://mafryr.github.io/pets-files/Terrier.jpg"
       },
       {
         "name" : "Tiger",
         "species" : "Husky",
         "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Large", "<strong>Fav. Activity:</strong> Running"],
         "birthYear" : 2015,
-        "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+        "photo" : "https://mafryr.github.io/pets-files/Husky.jpg"
       }
     ]
   }
