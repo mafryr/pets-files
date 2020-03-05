@@ -3,35 +3,35 @@
       {
         "name" : "Cisco",
         "species" : "Maltipoo",
-        "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Napping", "<strong>Fav. Place:</strong> Home", "<strong>Chipped?Fixed?Vaccinated?</strong> Yes/Yes/Yes"],
+        "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Napping", "<strong>Fav. Place:</strong> Home", "<strong>Chipped? Fixed? Vaccinated?:</strong> Yes / Yes / Yes"],
         "birthYear" : 2019,
         "photo" : "https://mafryr.github.io/pets-files/Maltipoo.jpg"
       },
       {
         "name" : "Stewart",
         "species" : "Pug",
-        "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Chewing", "<strong>Fav. Place:</strong> The Playground", "<strong>Chipped?Fixed?Vaccinated?</strong> No/Yes/Yes"],
+        "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Chewing", "<strong>Fav. Place:</strong> The Playground", "<strong>Chipped? Fixed? Vaccinated?:</strong> No / Yes / Yes"],
         "birthYear" : 2008,
         "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
       },
       {
         "name" : "Pony",
         "species" : "Chihuahua",
-        "favFoods" : ["<strong>Gender:</strong> Female", "<strong>Size:</strong> Small", "<strong>Fav. Activity:</strong> Swimming", "<strong>Fav. Place:</strong> The Beach", "<strong>Chipped?Fixed?Vaccinated?</strong> No/Yes/Yes"],
+        "favFoods" : ["<strong>Gender:</strong> Female", "<strong>Size:</strong> Small", "<strong>Fav. Activity:</strong> Swimming", "<strong>Fav. Place:</strong> The Beach", "<strong>Chipped? Fixed? Vaccinated?:</strong> No / Yes / Yes"],
         "birthYear" : 2012,
         "photo" : "https://mafryr.github.io/pets-files/Chihuahua.jpg"
       },
       {
         "name" : "Bella",
         "species" : "Terrier",
-        "favFoods" : ["<strong>Gender:</strong> Female", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Fetching", "<strong>Fav. Place:</strong> The Dog Park", "<strong>Chipped?Fixed?Vaccinated?</strong> Yes/Yes/Yes"],
+        "favFoods" : ["<strong>Gender:</strong> Female", "<strong>Size:</strong> Medium", "<strong>Fav. Activity:</strong> Fetching", "<strong>Fav. Place:</strong> The Dog Park", "<strong>Chipped? Fixed? Vaccinated?:</strong> Yes / Yes / Yes"],
         "birthYear" : 2016,
         "photo" : "https://mafryr.github.io/pets-files/Terrier.jpg"
       },
       {
         "name" : "Tiger",
         "species" : "Husky",
-        "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Large", "<strong>Fav. Activity:</strong> Running", "<strong>Fav. Place:</strong> The Woods", "<strong>Chipped?Fixed?Vaccinated?</strong> Yes/No/Yes"],
+        "favFoods" : ["<strong>Gender:</strong> Male", "<strong>Size:</strong> Large", "<strong>Fav. Activity:</strong> Running", "<strong>Fav. Place:</strong> The Woods", "<strong>Chipped? Fixed? Vaccinated?:</strong> Yes / No / Yes"],
         "birthYear" : 2015,
         "photo" : "https://mafryr.github.io/pets-files/Husky.jpg"
       }
